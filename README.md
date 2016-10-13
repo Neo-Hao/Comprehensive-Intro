@@ -8,7 +8,7 @@ The prototype aims at visualizing the top-down thinking process of experts in so
 
 Three samples are used to illustrate the idea of the tool. Complete problem description and answers to the three sample problems can be found at https://github.com/Neo-Hao/Comprehensive-Exam
 
-### Interfaces for students
+### Functional Interfaces for students
 
 The core of the interfaces for students is the presentation of problem breakdown. The interface composes of two sections: problem breakdown and code structure.
 
@@ -24,7 +24,7 @@ Three samples are developed to illustrate the ideas:
 * http://home.tobeneo.com/Comprehensive-Sample2/
 * http://home.tobeneo.com/Comprehensive-Sample3/
 
-### Interface for Teachers
+### Functional Interfaces for Teachers
 
 The interfaces for teachers allow teachers to input all the information that will be presented to students, as are shown in the three samples.
 
